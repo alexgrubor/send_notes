@@ -8,9 +8,9 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 4. [Usage](#usage)
+    -[Welcome](#welcome)
     - [Dashboard](#dashboard)
     - [Notes](#notes)
-    - [Pages](#pages)
     - [Profile](#profile)
     - [Login/Register](#loginregister)
 5. [Contributing](#contributing)
@@ -135,3 +135,10 @@ The dashboard provides an overview of your notes.
 
 
 
+## Contributing
+
+Contributions are welcome! If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
