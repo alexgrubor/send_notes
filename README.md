@@ -51,13 +51,15 @@ Make sure you have the following installed on your machine:
 
 2. Navigate to the project directory:
 
-````bash
+```bash
 cd sent-notes-app
+```
 
 3. Install PHP dependencies:
 
 ```bash
 composer install
+```
 
 4. Install JavaScript dependencies:
 
@@ -65,6 +67,7 @@ composer install
 
 npm install
 
+```
 5. Copy the .env.example file to .env and configure your database settings.
 
 6. Generate the application key:
@@ -72,23 +75,26 @@ npm install
 ```bash
 
 php artisan key:generate
+```
 
 7. Run migrations:
 
 ```bash
 
 php artisan migrate
+```
 
 8. Compile assets using npm:
 
 ```bash
-
 npm run dev
+```
 
 9. Start the development server:
 
 ```bash
 php artisan serve
+```
 
 10. Your app should now be running at http://localhost:8000.
 
