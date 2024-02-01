@@ -100,27 +100,38 @@ php artisan serve
 
 ## Usage
 
-### Dashboard
-
-The dashboard provides an overview of your notes and pages. You can navigate to different sections of the app from the dashboard.
-
-### Notes
-
-- **Create Note**: Click on the "Create Note" button to compose a new note.
-- **Edit Note**: Click on a note to edit its content.
-- **Delete Note**: Each note has a delete option for easy removal.
-
-### Pages
-
-- **Create Page**: Use the "Create Page" option to organize your notes into different categories or topics.
-- **Edit Page**: Modify the page name or delete it as needed.
-
-### Profile
-
-- **View Profile**: Access your user profile information.
-- **Edit Profile**: Update your profile details.
+### Welcome
+Welcome page provides infos about the application
+![Welcome](public/imgs/welcome.png)
 
 ### Login/Register
 
 - **Login**: Existing users can log in using their credentials.
+![Login](public/imgs/signin.png)
 - **Register**: New users can register for an account.
+![Register](public/imgs/register.png)
+
+### Dashboard
+
+The dashboard provides an overview of your notes.
+![Dashboard](public/imgs/dashboard.png)
+
+### Notes
+![All Notes](public/imgs/notes.png)
+
+- **Create Note**: Click on the "Create Note" button to compose a new note.
+![Create Note](public/imgs/create_note.png)
+
+- **See Note**: Click on the "eye" button to see a note.
+![See Note](public/imgs/see_note.png)
+
+
+
+### Profile
+
+- **View Profile**: Access your user profile information and update it.
+
+![Profile](public/imgs/profile.png)
+
+
+
